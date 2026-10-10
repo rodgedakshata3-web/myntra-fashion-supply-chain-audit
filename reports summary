@@ -1,0 +1,6 @@
+```mermaid
+xychart-beta
+    title "Inventory Stock Status Breakdown by Fashion Category (% of SKUs)"
+    x-axis [ "Casual Sneakers", "Denim Jeans", "Ethnic Kurtas", "Formal Blazers", "Oversized Tees", "Western Dresses" ]
+    y-axis "Percentage (%)" 0 --> 100
+    bar [ 47.7, 48.8, 48.7, 46.0, 48.0, 48.6 ]
